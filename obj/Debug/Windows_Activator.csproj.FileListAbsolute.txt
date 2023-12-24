@@ -1,0 +1,7 @@
+C:\Users\Zsolt\Documents\C#\Windows_Activator\bin\Debug\Windows_Activator.exe.config
+C:\Users\Zsolt\Documents\C#\Windows_Activator\bin\Debug\Windows_Activator.exe
+C:\Users\Zsolt\Documents\C#\Windows_Activator\bin\Debug\Windows_Activator.pdb
+C:\Users\Zsolt\Documents\C#\Windows_Activator\obj\Debug\Windows_Activator.csproj.AssemblyReference.cache
+C:\Users\Zsolt\Documents\C#\Windows_Activator\obj\Debug\Windows_Activator.csproj.CoreCompileInputs.cache
+C:\Users\Zsolt\Documents\C#\Windows_Activator\obj\Debug\Windows_Activator.exe
+C:\Users\Zsolt\Documents\C#\Windows_Activator\obj\Debug\Windows_Activator.pdb

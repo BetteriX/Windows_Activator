@@ -14,4 +14,4 @@ This program was implemented with the help of <a href="https://kms-project.msgui
 - Home Country Specific
 
 In the following link you can download the .exe file:
-<a id="raw-url" href="https://github.com/BetteriX/Windows_Activator/tree/master/bin/Debug/Windows_Activator.exe">Link</a>
+<a id="raw-url" href="http://raw.githubusercontent.com/betterix/Windows_Activator/master/bin/Debug/Windows_Activator.exe">Link</a>
